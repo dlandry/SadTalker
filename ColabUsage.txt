@@ -1,0 +1,4 @@
+Make changes to the resource directory by putting a scrit.wav (voice over) file that you want to use with the RedPepper.jpg that you want animated.
+See the RedPepper repository here to see the colab configuration and usage.
+
+A 1:35 video was created in about 20 minutes using the resources and command in the RedPepper colab notebook (not including the setup part that will need to be done before running the command, which is about anotehr 20 minutes
